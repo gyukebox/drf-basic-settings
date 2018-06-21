@@ -1,3 +1,6 @@
+import os
+from project.settings import BASE_DIR
+
 DEBUG = False
 
 # Modify ALLOWED_HOSTS to appropriate hosts

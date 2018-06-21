@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "../django-env/bin/python",
+  "python.unitTest.unittestEnabled": false,
+  "python.linting.pep8Enabled": true,
+  "python.formatting.autopep8Path": "/usr/local/bin/autopep8"
+}
